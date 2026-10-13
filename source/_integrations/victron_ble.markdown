@@ -34,6 +34,7 @@ The integration supports the following Victron device types:
 - **Smart Battery Protect**
 - **Smart Lithium**
 - **Solar Charger** (SmartSolar, BlueSolar MPPT)
+- **Solar sensor** (SolarSense 750)
 
 ## Unsupported devices
 
